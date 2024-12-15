@@ -1,0 +1,16 @@
+div {
+  display: inline-block;
+  width: 75px;
+  height: 25px;
+  margin: 0 5px;
+  border: 1px solid black;
+  text-align: center;
+  color: white;
+}
+div:nth-of-type(odd) {
+  background-color: red;
+  margin-bottom: 20px;
+}
+div:nth-of-type(even) {
+  display: none;
+}
