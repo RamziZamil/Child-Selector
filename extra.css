@@ -1,0 +1,158 @@
+div div {
+  width: 20px;
+  height: 20px;
+  background-color: #b2c9ad;
+  display: inline-block;
+  padding: 5px;
+  margin: 5px;
+}
+div:nth-child(1):hover ~ div:nth-child(n) {
+  background-color: #525b44;
+}
+div:nth-child(2):hover ~ div:nth-child(2n) {
+  background-color: #525b44;
+}
+div:nth-child(3):hover ~ div:nth-child(3n) {
+  background-color: #525b44;
+}
+div:nth-child(4):hover ~ div:nth-child(4n) {
+  background-color: #525b44;
+}
+div:nth-child(5):hover ~ div:nth-child(5n) {
+  background-color: #525b44;
+}
+div:nth-child(6):hover ~ div:nth-child(6n) {
+  background-color: #525b44;
+}
+div:nth-child(7):hover ~ div:nth-child(7n) {
+  background-color: #525b44;
+}
+div:nth-child(8):hover ~ div:nth-child(8n) {
+  background-color: #525b44;
+}
+div:nth-child(9):hover ~ div:nth-child(9n) {
+  background-color: #525b44;
+}
+div:nth-child(10):hover ~ div:nth-child(10n) {
+  background-color: #525b44;
+}
+div:nth-child(11):hover ~ div:nth-child(11n) {
+  background-color: #525b44;
+}
+div:nth-child(12):hover ~ div:nth-child(12n) {
+  background-color: #525b44;
+}
+div:nth-child(13):hover ~ div:nth-child(13n) {
+  background-color: #525b44;
+}
+div:nth-child(14):hover ~ div:nth-child(14n) {
+  background-color: #525b44;
+}
+div:nth-child(15):hover ~ div:nth-child(15n) {
+  background-color: #525b44;
+}
+div:nth-child(16):hover ~ div:nth-child(16n) {
+  background-color: #525b44;
+}
+div:nth-child(17):hover ~ div:nth-child(17n) {
+  background-color: #525b44;
+}
+div:nth-child(18):hover ~ div:nth-child(18n) {
+  background-color: #525b44;
+}
+div:nth-child(19):hover ~ div:nth-child(19n) {
+  background-color: #525b44;
+}
+div:nth-child(20):hover ~ div:nth-child(20n) {
+  background-color: #525b44;
+}
+div:nth-child(21):hover ~ div:nth-child(21n) {
+  background-color: #525b44;
+}
+div:nth-child(22):hover ~ div:nth-child(22n) {
+  background-color: #525b44;
+}
+div:nth-child(23):hover ~ div:nth-child(23n) {
+  background-color: #525b44;
+}
+div:nth-child(24):hover ~ div:nth-child(24n) {
+  background-color: #525b44;
+}
+div:nth-child(25):hover ~ div:nth-child(25n) {
+  background-color: #525b44;
+}
+div:nth-child(26):hover ~ div:nth-child(26n) {
+  background-color: #525b44;
+}
+div:nth-child(27):hover ~ div:nth-child(27n) {
+  background-color: #525b44;
+}
+div:nth-child(28):hover ~ div:nth-child(28n) {
+  background-color: #525b44;
+}
+div:nth-child(29):hover ~ div:nth-child(29n) {
+  background-color: #525b44;
+}
+div:nth-child(30):hover ~ div:nth-child(30n) {
+  background-color: #525b44;
+}
+div:nth-child(31):hover ~ div:nth-child(31n) {
+  background-color: #525b44;
+}
+div:nth-child(32):hover ~ div:nth-child(32n) {
+  background-color: #525b44;
+}
+div:nth-child(33):hover ~ div:nth-child(33n) {
+  background-color: #525b44;
+}
+div:nth-child(34):hover ~ div:nth-child(34n) {
+  background-color: #525b44;
+}
+div:nth-child(35):hover ~ div:nth-child(35n) {
+  background-color: #525b44;
+}
+div:nth-child(36):hover ~ div:nth-child(36n) {
+  background-color: #525b44;
+}
+div:nth-child(37):hover ~ div:nth-child(37n) {
+  background-color: #525b44;
+}
+div:nth-child(38):hover ~ div:nth-child(38n) {
+  background-color: #525b44;
+}
+div:nth-child(39):hover ~ div:nth-child(39n) {
+  background-color: #525b44;
+}
+div:nth-child(40):hover ~ div:nth-child(40n) {
+  background-color: #525b44;
+}
+div:nth-child(41):hover ~ div:nth-child(41n) {
+  background-color: #525b44;
+}
+div:nth-child(42):hover ~ div:nth-child(42n) {
+  background-color: #525b44;
+}
+div:nth-child(43):hover ~ div:nth-child(43n) {
+  background-color: #525b44;
+}
+div:nth-child(44):hover ~ div:nth-child(44n) {
+  background-color: #525b44;
+}
+div:nth-child(45):hover ~ div:nth-child(45n) {
+  background-color: #525b44;
+}
+div:nth-child(46):hover ~ div:nth-child(46n) {
+  background-color: #525b44;
+}
+div:nth-child(47):hover ~ div:nth-child(47n) {
+  background-color: #525b44;
+}
+div:nth-child(48):hover ~ div:nth-child(48n) {
+  background-color: #525b44;
+}
+div:nth-child(49):hover ~ div:nth-child(49n) {
+  background-color: #525b44;
+}
+div:nth-child(50):hover ~ div:nth-child(50n) {
+  background-color: #525b44;
+}
